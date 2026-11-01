@@ -12,10 +12,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:A855F7&height=200&section=header&text=Hasen%20Dev&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Developer%20since%202018%20%C2%B7%20Open%20to%20work&descSize=16&descAlignY=60" width="100%" alt="Hasen Dev — Developer since 2018, open to work" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:A855F7&height=200&section=header&text=Hasen%20Dev&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Open%20to%20work&descSize=16&descAlignY=60" width="100%" alt="Hasen Dev — Developer since 2018, open to work" />
 
 <a href="https://github.com/devhasen">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=8B5CF6&center=true&vCenter=true&width=620&lines=Clean+code%2C+shipped+often.;Boring+tech%2C+reliable+software.;Developer+since+2018+%E2%80%94+open+to+work." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=8B5CF6&center=true&vCenter=true&width=620&lines=Clean+code%2C+shipped+often.;Boring+tech%2C+reliable+software.;Open+to+work+%E2%80%94+full-time%2C+contract%2C+freelance." alt="Typing animation" />
 </a>
 
 <br />
@@ -30,19 +30,19 @@
 
 ## Hey, I'm Hasen 👋
 
-I've been writing software professionally since **2018** — long enough to have a strong opinion about
-what actually ships and what just looks good in a slide deck.
+I've been building software professionally since **2018**, working across the full stack — from
+API design and backend architecture to developer tooling and clean, maintainable code.
 
-I like small diffs, clear names, boring infrastructure, and code someone else can pick up at 2 a.m.
-I'm currently **open to new opportunities**, and I'm always up for a good technical conversation.
+I care about small diffs, clear naming, boring infrastructure, and code a teammate can pick up at 2 a.m.
+I'm currently **open to new opportunities** (full-time, contract or freelance) and always happy to talk tech.
 
 **At a glance**
 
-- 💼 **Role** — software developer, building and maintaining products end to end
+- 💼 **Role** — Software Developer, building and maintaining products end to end
 - ⏳ **Writing code since** — 2018
 - 🎯 **Right now** — open to work: full-time, contract or freelance
 - 🧠 **Drawn to** — backend & API design, developer tooling, clean architecture
-- 📍 **Working style** — remote-friendly, async-first, low on meetings
+- 📍 **Working style** — remote-friendly, async-first, collaborative
 
 ```ts
 const hasen = {
