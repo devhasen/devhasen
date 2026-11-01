@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:A855F7&height=200&section=header&text=Hasen%20Dev&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Open%20to%20work&descSize=16&descAlignY=60" width="100%" alt="Hasen Dev — Developer since 2018, open to work" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:A855F7&height=200&section=header&text=Hasen%20Dev&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Open%20to%20work&descSize=16&descAlignY=60" width="100%" alt="Hasen Dev - Developer since 2018, open to work" />
 
 <a href="https://github.com/devhasen">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=8B5CF6&center=true&vCenter=true&width=620&lines=Clean+code%2C+shipped+often.;Boring+tech%2C+reliable+software.;Open+to+work+%E2%80%94+full-time%2C+contract%2C+freelance." alt="Typing animation" />
@@ -20,7 +20,7 @@
 
 ## Hey, I'm Hasen 👋
 
-I've been building software professionally since **2018**, working across the full stack — from
+I've been building software professionally since **2018**, working across the full stack - from
 API design and backend architecture to developer tooling and clean, maintainable code.
 
 I care about small diffs, clear naming, boring infrastructure, and code a teammate can pick up at 2 a.m.
@@ -28,11 +28,11 @@ I'm currently **open to new opportunities** (full-time, contract or freelance) a
 
 **At a glance**
 
-- 💼 **Role** — Software Developer, building and maintaining products end to end
-- ⏳ **Writing code since** — 2018
-- 🎯 **Right now** — open to work: full-time, contract or freelance
-- 🧠 **Drawn to** — backend & API design, developer tooling, clean architecture
-- 📍 **Working style** — remote-friendly, async-first, collaborative
+- 💼 **Role** - Software Developer, building and maintaining products end to end
+- ⏳ **Writing code since** - 2018
+- 🎯 **Right now** - open to work: full-time, contract or freelance
+- 🧠 **Drawn to** - backend & API design, developer tooling, clean architecture
+- 📍 **Working style** - remote-friendly, async-first, collaborative
 
 
 ---
@@ -107,7 +107,7 @@ Got a role, a project, or just a question? I answer everything.
 
 <br />
 
-<p><em>“Make it work, make it right, make it fast — in that order.”</em></p>
+<p><em>“Make it work, make it right, make it fast - in that order.”</em></p>
 
 </div>
 
